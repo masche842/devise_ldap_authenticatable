@@ -18,5 +18,5 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency('devise', '>= 2.0.0')
-  s.add_dependency('net-ldap', '~> 0.2.2')
+  s.add_dependency('net-ldap', '0.3.1')
 end
